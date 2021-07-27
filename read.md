@@ -2,7 +2,7 @@ This is the read.md file.
 
 This contains all the info on this code snippets
 
-AllSafe:
+Name of the website:
 
 this file contains code that will run every 1 second and get response from the said website.
 
@@ -22,6 +22,6 @@ All you have to do is make sure that the following libraries are present on the 
 requests , sqlite3 , twisted , datetime , pandas , matplotlib.
 
 Steps: 
-1. Extract the file into any folder 
-2. run the python code 
-3. open the index.html .
+Extract the file into any folder 
+Run the python code 
+Open the index.html .
